@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#lableCount {
+  display: block;
+  font-size: 10em;
+  text-align: center;
+  margin-top: 150px;
+}
+.btnContanier {
+  text-align: center;
+}
+.buttons {
+  padding: 10px 20px 10px 20px;
+  margin-right: 5px;
+  border-radius: 5px;
+  color: rgb(255, 255, 255);
+  border: none;
+  cursor: pointer;
+
+  background: #2c2c2c;
+}
+.buttons:hover {
+  background: #fc490d;
+}
